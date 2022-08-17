@@ -11,8 +11,6 @@
 - HTML
 - CSS
 
-
-
 ## Getting Started
 
 - Open GitHub URL of repositry.
@@ -29,8 +27,6 @@ Linters
 - Lighthouse
 - Webhint
 - Stylelint
-- ESLint
-- node_modules checker
 - Github
 
 ## Authors
